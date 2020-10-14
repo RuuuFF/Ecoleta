@@ -1,5 +1,5 @@
 ## ⚙️ Projeto
-**Ecoleta** é uma plataforma que conecta coletores(empresas ou entidade) com pessoas que buscam descartar resíduos. Foi desenvolvido durante o primeiro evento **Next Level Week**, da **rocketseat**. ❤️
+**Ecoleta** é uma plataforma que conecta coletores (empresas ou entidade) com pessoas que buscam descartar resíduos. Foi desenvolvido durante o primeiro evento **Next Level Week**, da **rocketseat**. ❤️
 
 ## ✈️ Tecnologias
 - HTML
